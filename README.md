@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/santhiya-tech/leetcode/tree/master/0001-two-sum) |
+| [0208-implement-trie-prefix-tree](https://github.com/santhiya-tech/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/santhiya-tech/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/santhiya-tech/leetcode/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/santhiya-tech/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/santhiya-tech/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/santhiya-tech/leetcode/tree/master/0344-reverse-string) |
 ## Two Pointers
@@ -33,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/santhiya-tech/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/santhiya-tech/leetcode/tree/master/0344-reverse-string) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/santhiya-tech/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/santhiya-tech/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
