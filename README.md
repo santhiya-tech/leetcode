@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/santhiya-tech/leetcode/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/santhiya-tech/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/santhiya-tech/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/santhiya-tech/leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/santhiya-tech/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/santhiya-tech/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/santhiya-tech/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/santhiya-tech/leetcode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
