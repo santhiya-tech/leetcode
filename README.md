@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/santhiya-tech/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/santhiya-tech/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/santhiya-tech/leetcode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/santhiya-tech/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/santhiya-tech/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/santhiya-tech/leetcode/tree/master/0912-sort-an-array) |
 ## Hash Table
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/santhiya-tech/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/santhiya-tech/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/santhiya-tech/leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/santhiya-tech/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/santhiya-tech/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/santhiya-tech/leetcode/tree/master/0147-insertion-sort-list) |
 | [0217-contains-duplicate](https://github.com/santhiya-tech/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/santhiya-tech/leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/santhiya-tech/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/santhiya-tech/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/santhiya-tech/leetcode/tree/master/0912-sort-an-array) |
 ## String
@@ -80,10 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/santhiya-tech/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/santhiya-tech/leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/santhiya-tech/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/santhiya-tech/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/santhiya-tech/leetcode/tree/master/0912-sort-an-array) |
 ## Merge Sort
@@ -93,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/santhiya-tech/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/santhiya-tech/leetcode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -101,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/santhiya-tech/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/santhiya-tech/leetcode/tree/master/0912-sort-an-array) |
 ## Linked List
 |  |
@@ -114,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/santhiya-tech/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/santhiya-tech/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
