@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/santhiya-tech/leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/santhiya-tech/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0046-permutations](https://github.com/santhiya-tech/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/santhiya-tech/leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/santhiya-tech/leetcode/tree/master/0078-subsets) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/santhiya-tech/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/santhiya-tech/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/santhiya-tech/leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/santhiya-tech/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/santhiya-tech/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Matrix
 |  |
